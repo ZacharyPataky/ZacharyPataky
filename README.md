@@ -8,6 +8,10 @@ I'm currently focusing on refining my Angular and Spring Boot skills, both for p
 
 People have tried various methods of contacting me over the years... telegram, carrier pigeon, smoke signal, etc.  My preferred approach is email.  You can find me at _zacharypataky@gmail.com_.  Oh, and please don't forget to include a joke somewhere in your message - it'll make my day!
 
+Yours truly,
+
+Zachary A. Pataky
+
 
 <!-- - 👋 Greetings, my name is Zachary Pataky.  I graduated with a Computer Science BS at the esteemed Canisius College.  I now hate computers more than I love them, but I'm confident enough to admit that my education instilled the proper skills and gusto to tackle the software industry.  I'm currently a Junior Software Engineer at CYBRA Corporation, where my team develops our premier _MarkMagic_ product line.  My team is responsible for writing the programs that illustrate and print the barcodes on your packages.  Nowadays, much of my work aligns with full-stack development, focusing on Angular, Spring Boot, and a plethora of other digital goodies.
 
