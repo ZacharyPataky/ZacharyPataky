@@ -6,7 +6,7 @@ I'm an enormous advocate for the arts; I believe they're the crux binding our he
 
 I'm currently focusing on refining my Angular and Spring Boot skills, both for professional and personal development.  I have a few ideas in mind regarding sandbox websites, which you guys can observe me develop here.  Alongside web development, I'm also interesting in honing my data management skills with introductory game development.
 
-People have tried various methods of contacting me over the years... telegram, carrier pigeon, smoke signal, etc.  My preferred approach is email.  You can find me at _zacharypataky@gmail.com_.  Oh, and please don't forget to include a joke somewhere in your message - it'll make my day!
+People have tried various methods of contacting me over the years... telegram, carrier pigeon, smoke signal, etc.  My preferred approach is email.  You can find me at _zacharypataky@gmail.com_.  Oh, and please don't forget to embed a joke somewhere in your message - it'll make my day!
 
 Yours truly,
 
