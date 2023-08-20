@@ -4,7 +4,7 @@ My name is Zachary Pataky, and I'm a software engineer.  I graduated with a Comp
 
 I'm an enormous advocate for the arts; I believe they're the crux binding our hearts and souls together.  In my free time, I enjoy digesting films, literature, music, video games, and even Brazilian Jiu-Jitsu.  I'm also a firm believer in lifelong learning, and regularly engage in Udemy courses or YouTube videos to broaden my knowledge of tech-related topics.
 
-I'm currently focusing on refining my Angular and Spring Boot skills, both for professional and personal development.  I have a few ideas in mind regarding sandbox websites, which you guys can observe me develop here.  Alongside web development, I'm also interesting in honing my data management skills with introductory game development.
+I'm currently focusing on refining my Angular and .NET skills, both for professional and personal development.  I have a few ideas in mind regarding sandbox websites, which you guys can observe me develop here.  Alongside web development, I'm also interested in honing my data management skills with introductory game development.
 
 People have tried various methods of contacting me over the years... telegram, carrier pigeon, smoke signal, etc.  My preferred approach is email.  You can find me at _zacharypataky@gmail.com_.  Oh, and please don't forget to embed a joke somewhere in your message - it'll make my day!
 
