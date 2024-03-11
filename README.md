@@ -1,6 +1,6 @@
 Hello there,
 
-My name is Zachary Pataky, and I'm a software engineer.  I graduated with a Computer Science BS from Canisius College in 2022, where my education equipped me with the necessary skills and gusto to thrive in our software industry. While I'm happy to tackle any topic, my work experience has culminated in a specialization for full-stack web development.
+My name is Zachary Pataky, and I'm a software engineer.  I graduated with a Computer Science BS from Canisius College in 2022, where my education equipped me with the necessary skills and gusto to thrive in our software industry. While I'm happy to tackle any topic, my work experience has culminated in a specialization in full-stack web development.
 
 I'm an enormous advocate for the arts; I believe they're the crux binding our hearts and souls together.  In my free time, I enjoy digesting films, literature, music, video games, and even Brazilian Jiu-Jitsu.  I'm also a firm believer in lifelong learning, and regularly engage in Udemy courses or YouTube videos to broaden my knowledge of tech-related topics.
 
